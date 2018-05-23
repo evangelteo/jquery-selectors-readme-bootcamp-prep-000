@@ -15,5 +15,5 @@ function divSelector() {
 }
 
 function firstListIten() {
-  $('#pic-list')
+  $('#pic-list ul li:first-child')
 }
